@@ -1,2 +1,4 @@
 Branch可以在某一个Commit节点后新建一个新的分支，用于测试某些代码同时不改变主代码分支。
 其实，创建一个仓库后原先的Commit都是在master branch上的，当你新建一个Branch后就会新建一个分支，而这个分支上也可以添加commit
+
+这是我在Branch_test的branch上新建的一个commit节点

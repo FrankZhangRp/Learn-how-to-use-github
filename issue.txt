@@ -1,0 +1,3 @@
+可以根据issue的编号回复
+bababa #number
+这表示你通过改变代码发布新的commit同时对这条issue做了回复

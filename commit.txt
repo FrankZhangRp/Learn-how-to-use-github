@@ -1,0 +1,4 @@
+What is commit？（I'm not good at English, so I will use Chinese to write, If I have time, I will translate it in English）
+Commit可以认为在某个节点对文件的改变，每发布一个Commit，都是在对文件修改，所以发布Commit的时候需要写出这次修改的主要内容或功能，方便以后查看。
+在History面板中可以看到所以的Commit，每一个Commit都有一个对应的哈希值确保唯一性。除此之外我们还可以查看每次Commit添加和删除的文本。
+

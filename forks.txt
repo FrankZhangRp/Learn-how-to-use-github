@@ -1,0 +1,2 @@
+fork 相当于将整个仓库搬移到你的账户下（包含你转移时他所有的commit和branch），然后自己可以随便修改。再做pull request，可以将你修改后的commit
+发给原作者。
